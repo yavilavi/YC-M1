@@ -4,10 +4,10 @@
 <table width="100%" style='table-layout:fixed;'>
   <tr>
     <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=05-JS-IV">
+      <a href="https://airtable.com/shr0YS1oJziYC2pG9">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Haz click acá para dejar tu Opinión sobre esta clase.
       </a>
     </td>
   </tr>
@@ -21,8 +21,6 @@ En esta lección cubriremos:
 * Bucles `for…in`
 * Palabra clave `this`
 * Objetos en Javascript
-
-<iframe src="https://player.vimeo.com/video/424936732" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Introducción a los Objetos
 
@@ -281,7 +279,7 @@ De esta forma, `that` (puede tener cualquier nombre) va a apuntar al objeto `obj
 En esta lección aprendimos qué son los Objetos y las muchas formas que existen para acceder a los valores, llamar a los métodos y asignar valores. Muchas de estas técnicas parecían muy familiares, como si las hubiéramos usado en prácticamente todos los aspectos de nuestros aprendizajes hasta ahora. Aquí hay un patrón, eso es porque TODO en Javascript es un Objeto. Las matrices son solo objetos con teclas numéricas, las cadenas son objetos bajo el capó con métodos incorporados, las funciones son en realidad objetos con sus propias propiedades especiales, todo el tiempo de ejecución de Javascript es un objeto (`window` en un navegador o` global` en el Node.js). Cuanto más trabajes con Javascript, más comenzará a tener sentido para ti. Solo recuerda, todo es un objeto.
 
 ## Abre la carpeta "homework" y completa la tarea descrita en el archivo README
-[Homework](https://github.com/atralice/Curso.Prep.Henry/tree/master/05-JS-IV/homework)
+[Homework](https://github.com/yavilavi/YC-M1/tree/main/05-JS-IV/homework)
 
 ## Recursos adicionales
 

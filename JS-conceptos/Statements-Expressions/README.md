@@ -1,19 +1,19 @@
-<img  src='../../logo.png' height='70px'>
+<p align='left'>
+    <img  src='../logo.png' height='70px'>
+</p>
 <table width="100%" style='table-layout:fixed;'>
   <tr>
     <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=conceptos-Expressions-vs-Statements">
+      <a href="https://airtable.com/shr0YS1oJziYC2pG9">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Haz click acá para dejar tu Opinión sobre esta clase.
       </a>
     </td>
   </tr>
 </table>
 
 # Expresiones vs Statements
-
-<iframe src="https://player.vimeo.com/video/480856050" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 Podemos decir que todo el código que escribimos en JS o "hace algo" o "retorna algo" (o una combinación de los dos). En la terminología de lenguajes de programación esta diferencia está clasificada en la definición de **expressions** (expresiones) y **statements** (sentencias).

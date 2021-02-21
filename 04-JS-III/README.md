@@ -4,10 +4,10 @@
 <table width="100%" style='table-layout:fixed;'>
   <tr>
     <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=04-JS-III">
+      <a href="https://airtable.com/shr0YS1oJziYC2pG9">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Haz click acá para dejar tu Opinión sobre esta clase.
       </a>
     </td>
   </tr>
@@ -18,8 +18,6 @@ En esta lección cubriremos:
 
 * Introducción a los arrays
 * Bucles `for` con arrays
-
-<iframe src="https://player.vimeo.com/video/424916422" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Introducción a los arrays (matrices/arreglos)
 
@@ -137,7 +135,7 @@ for (let i = 0; i < nombresEstudiantes.length; i++) {
 ```
 
 ## Abre la carpeta "homework" y completa la tarea descrita en el archivo README
-[Homework](https://github.com/atralice/Curso.Prep.Henry/tree/master/04-JS-III/homework)
+[Homework](https://github.com/yavilavi/YC-M1/tree/main/04-JS-III/homework)
 
 ## Recursos adicionales
 

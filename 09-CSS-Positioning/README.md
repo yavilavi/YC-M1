@@ -4,10 +4,10 @@
 <table width="100%" style='table-layout:fixed;'>
   <tr>
     <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=09-CSS-Positioning">
+      <a href="https://airtable.com/shr0YS1oJziYC2pG9">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Haz click acá para dejar tu Opinión sobre esta clase.
       </a>
     </td>
   </tr>
@@ -21,8 +21,6 @@ En esta lección cubriremos:
 * Propiedad "position".
 * Usar "position" para posicionar elementos.
 * Introducción a Flexbox.
-
-<iframe src="https://player.vimeo.com/video/425169846" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Introducción al posicionamiento
 

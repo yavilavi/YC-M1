@@ -4,10 +4,10 @@
 <table width="100%" style='table-layout:fixed;'>
   <tr>
     <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=08-HTML">
+      <a href="https://airtable.com/shr0YS1oJziYC2pG9">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Haz click acá para dejar tu Opinión sobre esta clase.
       </a>
     </td>
   </tr>
@@ -115,7 +115,7 @@ El elemento div es un *contenedor* genérico. Es usado principalmente para dar e
 El tag a (del inglés *anchor*), nos permite crear **links** a otros documentos y páginas. Este tag recibe el *atributo* `href` que indica a dónde apunta el link.
 
 ```html
-  <a href="http://www.soyhenry.com">Esto es un link!</a>
+  <a href="http://www.google.com">Esto es un link!</a>
 ```
 
 ### \<h1> ... \<h6>
@@ -133,7 +133,7 @@ Son los tags de encabezado o títulos, están pensandos del 1 al 6, para indicar
 Este tag nos permite mostrar imágenes en la pantalla. Necesita el atributo `src` que indica la *URL* de donde sacar la imagen a mostrar.
 
 ```html
-  <img src="http://www.soyhenry.com/imageurl.jpg" />
+  <img src="http://www.algo.com/imageurl.jpg" />
 ```
 
 ### \<ul>

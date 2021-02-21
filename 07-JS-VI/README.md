@@ -1,17 +1,4 @@
-<p align='left'>
-    <img  src='../logo.png' height='70px'>
-</p>
-<table width="100%" style='table-layout:fixed;'>
-  <tr>
-    <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=07-JS-VI">
-        <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
-        <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
-      </a>
-    </td>
-  </tr>
-</table>
+https://github.com/yavilavi/YC-M1/tree/main/06-JS-V/homework
 # Lección 7: Javascript VI (Callbacks)
 
 En esta lección cubriremos:
@@ -19,8 +6,6 @@ En esta lección cubriremos:
 * Callbacks
 * Más métodos de Arrays
 * Introducción a la programación funcional
-
-<iframe src="https://player.vimeo.com/video/425254623" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Callbacks
 
@@ -122,7 +107,7 @@ console.log(triple); // [ 6, 9, 12, 15 ]
 ```
 
 ## Abre la carpeta "homework" y completa la tarea descrita en el archivo README
-[Homework](https://github.com/atralice/Curso.Prep.Henry/tree/master/07-JS-VI/homework)
+[Homework](https://github.com/yavilavi/YC-M1/tree/main/07-JS-VI)
 
 ## Recursos adicionales
 

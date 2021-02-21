@@ -4,10 +4,10 @@
 <table width="100%" style='table-layout:fixed;'>
   <tr>
     <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=03-JS-II">
+      <a href="https://airtable.com/shr0YS1oJziYC2pG9">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Haz click acá para dejar tu Opinión sobre esta clase.
       </a>
     </td>
   </tr>
@@ -22,8 +22,6 @@ En esta lección cubriremos:
 * Operados lógicos
 * Bucles `for`
 * `arguments`
-
-<iframe src="https://player.vimeo.com/video/424318886" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Undefined y null
 
@@ -267,7 +265,7 @@ Si queremos saber cuantos parámetros puede recibir una función podemos usar la
 ```
 
 ## Abre la carpeta "homework" y completa la tarea descrita en el archivo README
-[Homework](https://github.com/atralice/Curso.Prep.Henry/tree/master/03-JS-II/homework)
+[Homework](https://github.com/yavilavi/YC-M1/tree/main/03-JS-II/homework)
 
 ## Recursos adicionales
 

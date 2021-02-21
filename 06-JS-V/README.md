@@ -4,10 +4,10 @@
 <table width="100%" style='table-layout:fixed;'>
   <tr>
     <td>
-      <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=06-JS-V">
+      <a href="https://airtable.com/shr0YS1oJziYC2pG9">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Haz click acá para dejar tu Opinión sobre esta clase.
       </a>
     </td>
   </tr>
@@ -18,8 +18,6 @@ En esta lección cubriremos:
 
 * Clases
 * `prototype`
-
-<iframe src="https://player.vimeo.com/video/425235994" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ## Clases
 
@@ -142,7 +140,7 @@ Nosotros también podemos generar nuestros propios constructores que de los cual
 < 'Soy Emi de Buenos Aires'
 ```
 
-Ahora todo Alumno de Henry antes de Alumno es una Persona, asique podríamos decir que un Alumno hereda las propiedades de ser Persona.
+Ahora todo Alumno de Yilmer.codes antes de Alumno es una Persona, asique podríamos decir que un Alumno hereda las propiedades de ser Persona.
 
 ``` javascript
 > function Alumno(nombre,apellido,ciudad,curso) {
@@ -169,10 +167,10 @@ Descartemos esta opción.
     
     // finalmente le agrego los puntos propios de Alumno
     this.curso = curso;
-    this.empresa = 'Soy Henry';
+    this.empresa = 'Yilmer.codes';
   }
 
-> var toni = new Alumno('Toni', 'Tralice', 'Tucuman', 'Web Full Stack')
+> var toni = new Alumno('Toni', 'Gomez', 'Tucuman', 'Web Full Stack')
 
 // Ahora si tenemos nuestra instancia creada a partir de ambos constructores
 > toni.curso
@@ -206,7 +204,7 @@ Vamos a solucionar ese problema agregando al prototipo los métodos de Persona, 
 ```
 
 ## Abre la carpeta "homework" y completa la tarea descrita en el archivo README
-[Homework](https://github.com/atralice/Curso.Prep.Henry/tree/master/06-JS-V/homework)
+[Homework](https://github.com/yavilavi/YC-M1/tree/main/06-JS-V/homework)
 
 ## Recursos adicionales
 

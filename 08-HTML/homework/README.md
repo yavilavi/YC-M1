@@ -12,7 +12,7 @@ I. Cree una página HTML básica.
   C. En el cuerpo, crea tres divs.
     1. En el primer div crea:
       * un elemento h1 que contiene [Tu nombre].
-      * un elemento h3 que contiene "Henry".
+      * un elemento h3 que contiene "Yilmer.codes".
       * un elemento h4 que contiene "tarea de HTML / CSS".
     2. En el segundo div crea:
       * un elemento span que contiene texto que describe su comida favorita.
