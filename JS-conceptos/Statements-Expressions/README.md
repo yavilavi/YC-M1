@@ -1,5 +1,5 @@
 <p align='left'>
-    <img  src='../logo.png' height='70px'>
+    <img  src='../../logo.png' height='70px'>
 </p>
 <table width="100%" style='table-layout:fixed;'>
   <tr>
