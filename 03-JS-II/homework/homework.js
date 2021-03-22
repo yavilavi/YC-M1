@@ -99,7 +99,7 @@ function colors(color) {
   //Caso default: devuelve --> "Color not found"
   //Usar el statement Switch.
 
-  var respuesta = "This is ";
+  //var respuesta = "This is ";
 
   /*switch (color) {
     case "blue":
@@ -120,7 +120,7 @@ function colors(color) {
 
   return respuesta*/
 
-  if(color === "blue" || color === "red" || color === "green" || color === "orange"){
+  /*if(color === "blue" || color === "red" || color === "green" || color === "orange"){
 
     respuesta += color;
 
@@ -130,7 +130,13 @@ function colors(color) {
 
   }
 
-  return respuesta;
+  return respuesta;*/
+
+  for(var i = 0; i< colores.length; i++){
+    if(color === colores[i]) return 'This is '+colores[i]
+    }
+
+    return 'Color not found';
 
 }
 
